@@ -1,1 +1,1 @@
-# Squad-Initiative-Tracker
+# Squad-Combat-Initiative
