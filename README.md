@@ -7,18 +7,34 @@ Tired of manually averaging initiative rolls?
 This module lets you group actors together under clean visual headers with minimal fuss.
 
 🎯 Features
-👥 Create initiative groups directly in the combat tracker either by creating groups and then dragging actors inot the group or selecting a group of actors and hitting add group.
+👥 Create initiative groups directly in the combat tracker
 
-🔢 Roll initiative once per group, or individually.
+Either create a group and drag actors into it
 
-- Rolled groups are sorted by the highest initaitve rolled.
+Or select multiple actors and click “Add Group”
 
-- Drag and drop combatants between groups
+![image](https://github.com/user-attachments/assets/4c5b4580-6689-42e0-9371-2acb1865e40c)
 
-🎨 Customize group headers name + color + icon
 
+🔢 Roll initiative once per group, or individually
+
+Groups sort by the highest initiative rolled among members
+
+![image](https://github.com/user-attachments/assets/a268d21a-09e7-4ecf-8092-0da3c0b77005)
+
+🧲 Drag and drop combatants between groups
+
+🎨 Customize group headers (name, color, icon)
+
+![image](https://github.com/user-attachments/assets/e5397349-1a7d-4413-bf1f-3aafc7eab86c)
 
 🧪 Compatibility
-✅ Foundry VTT v11 & v12, still have to test and prepare for V13
+✅ Works with Foundry VTT v11 & v12
 
-✅ Made for the D&D5e System
+🧪 v13 support is planned but not yet tested
+
+✅ Built for the D&D5e system
+
+📜 License
+MIT © 2025 Somedude5
+If you fork or reuse this code, please retain credit in your project or documentation.
