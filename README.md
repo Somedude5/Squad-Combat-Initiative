@@ -1,5 +1,6 @@
 # Squad-Combat-Initiative
-A Foundry VTT module for enhanced group-based initiative management.
+A Foundry VTT module for enhanced group-based initiative management in the Dnd 5e system.
+
 Group combatants into visual headers, auto-roll shared initiative, and streamline large-scale combat!
 
 Do you love throwing hordes of enemies at your players but hate the hassle of managing their initiative?
@@ -20,19 +21,15 @@ Or select multiple actors and click “Add Group”
 
 - Groups sort by the highest initiative rolled among members
 
-![image](https://github.com/user-attachments/assets/a268d21a-09e7-4ecf-8092-0da3c0b77005)
+![image](https://github.com/user-attachments/assets/4d63fddd-ec92-4a93-a31a-ff6d44189109)
 
 - Drag and drop combatants between groups
 
 - Customize group headers (name, color, icon)
 
-![image](https://github.com/user-attachments/assets/e5397349-1a7d-4413-bf1f-3aafc7eab86c)
-
 🧪 Compatibility
-- Works with Foundry VTT v11 & v12
-
+- Works with Foundry VTT v12
 - v13 support is planned but not yet tested
-
 - Built for the D&D5e system
 
 MIT © 2025 Somedude5
