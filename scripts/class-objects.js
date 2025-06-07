@@ -10,7 +10,7 @@
 
 import { MODULE_ID, log, GMPERMISSIONS } from "./shared.js";
 
-const UNGROUPED = "ungrouped";
+export const UNGROUPED = "ungrouped";
 
 /* ------------------------------------------------------------------ */
 /*  GroupManager                                                      */
