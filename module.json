@@ -2,7 +2,7 @@
   "id": "squad-combat-initiative",
   "title": "Squad Combat Initiative",
   "description": "A module for DnD5e that enables the creation of custom initiative groups with average-based sorting and a collapsible combat tracker display. Still in BETA.",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "authors": [
     {
       "name": "Fligo11",
