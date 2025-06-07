@@ -2,16 +2,16 @@
   "id": "squad-combat-initiative",
   "title": "Squad Combat Initiative",
   "description": "A module for DnD5e that enables the creation of custom initiative groups with average-based sorting and a collapsible combat tracker display. Still in BETA.",
-  "version": "1.0.4",
+  "version": "1.0.3",
   "authors": [
     {
-      "name": "Fligo11",
+      "name": "Somedude5",
       "discord": "Fligo11",
       "flags": {}
     }
   ],
   "compatibility": {
-    "minimum": "12",
+    "minimum": "11",
     "verified": "12"
   },
   "relationships": {
@@ -26,20 +26,21 @@
       }
     ]
   },
-  "scripts": [
-    "squad-combat-initiative/scripts/main.js",
-    "squad-combat-initiative/scripts/class-objects.js",
-    "squad-combat-initiative/scripts/combat-tracker.js",
-    "squad-combat-initiative/scripts/group-header-rendering.js",
-    "squad-combat-initiative/scripts/rolling-overrides.js",
-    "squad-combat-initiative/scripts/settings.js",
-    "squad-combat-initiative/scripts/shared.js"
+  "esmodules": [
+    "scripts/main.js",
+    "scripts/class-objects.js",
+    "scripts/combat-tracker.js",
+    "scripts/group-header-rendering.js",
+    "scripts/rolling-overrides.js",
+    "scripts/settings.js",
+    "scripts/shared.js"
   ],
-  "styles": ["squad-combat-initiative/styles/styles.css"],
-  "packs": [],
+  "styles": [
+    "styles/styles.css"
+  ],
   "license": "MIT",
   "url": "https://github.com/Somedude5/Squad-Combat-Initiative",
   "readme": "https://github.com/Somedude5/Squad-Combat-Initiative/blob/main/README.md",
-  "manifest": "https://raw.githubusercontent.com/Somedude5/Squad-Combat-Initiative/main/module.json",
-  "download": "https://github.com/Somedude5/Squad-Combat-Initiative/releases/latest/download/squad-combat-initiative.zip"
+  "manifest": "https://github.com/Somedude5/Squad-Combat-Initiative/releases/download/V1.0.4/module.json",
+  "download": "https://github.com/Somedude5/Squad-Combat-Initiative/releases/download/V1.0.4/squad-combat-initiative.zip"
 }
