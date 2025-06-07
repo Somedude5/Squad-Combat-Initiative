@@ -7,7 +7,7 @@
  ****************************************************************************************/
 
 import { MODULE_ID, log } from "./shared.js";
-import { GroupManager } from "./class-objects.js";
+import { GroupManager, UNGROUPED } from "./class-objects.js";
 
 /* ------------------------------------------------------------------ */
 /*  Cached Intl helpers (creating new ones every call is wasteful)    */
